@@ -1,2 +1,2 @@
 # trex
-chrome trex game created by p5.play
+chrome trex game created by Kanishak
